@@ -1,5 +1,5 @@
 karnatiamulya.com
-Personal resume and portfolio website for Karnati Amulya, focused on VLSI, embedded systems, IoT, RTL design, and hands-on engineering projects.
+-Personal resume and portfolio website for Karnati Amulya, focused on VLSI, embedded systems, IoT, RTL design, and hands-on engineering projects.
 Features
 -Resume-style personal website
 -Interactive circuit puzzle in the hero section
